@@ -6,7 +6,6 @@ This script provides a system tray icon to control WLED on/off.
 
 - On power WLED: Enable or disable WLED to turn on after log in.
 - Toggel WLED: Turn on or off the WLED.
-- Quit: Close the script.
 
 ## Requirements
 
