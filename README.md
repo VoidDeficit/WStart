@@ -1,4 +1,4 @@
-# WLED System Tray Icon
+# WStart
 
 This script provides a system tray icon to control WLED on/off. 
 
