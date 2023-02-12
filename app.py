@@ -3,7 +3,7 @@ from PyQt5 import QtWidgets, QtGui
 import requests
 import configparser
 
-debug = True
+debug = False
 
 class SystemTrayIcon(QtWidgets.QSystemTrayIcon):
     def __init__(self, icon, parent=None):
